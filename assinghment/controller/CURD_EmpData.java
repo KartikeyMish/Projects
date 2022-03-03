@@ -92,13 +92,5 @@ public class CURD_EmpData {
         
 
         
-    }
-
-    public static void main(String[] args) throws ClassNotFoundException, SQLException {
-        
-
-        CURD_EmpData obj = new CURD_EmpData();
-        obj.updateEmp(102, "Suresh", "Gupta", "Jaipur", 9);
-    }
-    
+    }  
 }
